@@ -1,8 +1,9 @@
 # Code&Bricks E-commerce using git flow
 
+**This is an example exercise**. The company Code&Bricks wants to develop a new E-commerce webapp. The dev team will develop a first `1.0.0` version including three features. Each of them will be released as soon as its developed.
+
 All involved branches are pushed and left untouched so the exercise looks as clear as possible.
 
-- [Code&Bricks E-commerce using git flow](#codebricks-e-commerce-using-git-flow)
   - [Timeline:](#timeline)
   - [Git History](#git-history)
   - [Changelog](#changelog)
