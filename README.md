@@ -1,3 +1,4 @@
 # Code&Bricks E-commerce using git flow
 ## Changelog
-- Feature 1 finished
+### Release 0.1.0
+- New Feature 1
