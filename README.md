@@ -6,3 +6,5 @@
 - New Feature 2
 ### Release 0.2.1
 - Fix for Feature 2 bug
+### Release 1.0.0
+- New feature 3
