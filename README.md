@@ -4,3 +4,5 @@
 - New Feature 1
 ### Release 0.2.0
 - New Feature 2
+### Release 0.2.1
+- Fix for Feature 2 bug
